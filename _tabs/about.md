@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 1
+order: 4
 ---
 
 [BRIDGING FUTURES LTD](https://find-and-update.company-information.service.gov.uk/company/16410689) is a not-for-profit limited company working to help build a pathway to long-term settlement in the United Kingdom for Ukrainians who arrived under the UK’s Ukraine visa schemes.
