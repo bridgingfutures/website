@@ -4,6 +4,10 @@
   icon: "fab fa-facebook"
   url: "https://www.facebook.com/profile.php?id=61584683039699"
 
+- type: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/BridgingFutures"
+
 # - type: github
 #   icon: "fab fa-github"
 #
