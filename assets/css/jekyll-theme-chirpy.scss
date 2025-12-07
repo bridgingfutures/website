@@ -2,11 +2,17 @@
 ---
 
 /* prettier-ignore */
-@use 'main {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%} ';
+@use 'main'
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
 
 /* append your custom style below */
 
-/* Скрываем подпись автора "By …" под заголовком поста */
-.post-meta .post-author {
+/* Скрыть строку "By <author>" под заголовком поста */
+.post-meta .author,
+.post-meta .post-author,
+.post-meta__author {
   display: none;
 }
