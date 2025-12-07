@@ -1,0 +1,82 @@
+# UI texts for Chirpy theme (English override for Bridging Futures)
+
+# ----- Commons label -----
+layout:
+  post: Post
+  category: Category
+  tag: Tag
+
+# ----- Sidebar tabs -----
+tabs:
+  home: Home
+  categories: Categories
+  tags: Tags
+  archives: Archives
+  about: About
+
+# ----- Search -----
+search:
+  hint: Search...
+  cancel: Cancel
+  no_results: "Oops! No results found."
+
+# ----- Panels (right column / TOC) -----
+panel:
+  lastmod: Recently Updated
+  trending_tags: Trending Tags
+  toc: Contents
+
+# ----- Copyright & license -----
+copyright:
+  # Строка под постом
+  license:
+    template: "If this post resonates with you, please consider sharing it with others who might find it helpful."
+    name: ""
+    link: ""
+  # Эти строки сейчас не используются, т.к. футер переопределён через footer.html,
+  # но оставляем их на будущее.
+  brief: "All rights reserved."
+  verbose: >-
+    All content on this site is © Bridging Futures Ltd. All rights reserved, unless otherwise stated.
+
+# Строка про тему в футере (на случай, если вернёшь дефолтный футер)
+meta: "Using the Chirpy theme for Jekyll."
+
+# ----- Posts labels -----
+post:
+  written_by: By
+  posted: Posted
+  updated: Updated
+  words: words
+  pageview_measure: views
+  read_time:
+    unit: min
+    prompt: read
+  relate_posts: Further Reading
+  share: Share
+  button:
+    next: Newer
+    previous: Older
+  copy_code:
+    succeed: Copied!
+  share_link:
+    title: Copy link
+    succeed: Link copied successfully!
+
+# ----- Date formats -----
+df:
+  post:
+    strftime: "%b %e, %Y"
+    dayjs: "ll"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
+# ----- Categories page -----
+categories:
+  category_measure:
+    singular: category
+    plural: categories
+  post_measure:
+    singular: post
+    plural: posts
