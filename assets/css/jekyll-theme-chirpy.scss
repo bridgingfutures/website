@@ -1,18 +1,11 @@
 ---
 ---
 
-/* prettier-ignore */
-@use 'main'
-{%- if jekyll.environment == 'production' -%}
-  .bundle
-{%- endif -%}
-';
+@import 'main';
 
 /* append your custom style below */
 
-/* Скрыть строку "By <author>" под заголовком поста */
-.post-meta .author,
-.post-meta .post-author,
-.post-meta__author {
-  display: none;
+/* Hide the "By …" author line under post titles */
+.post-meta .post-author {
+  display: none !important;
 }
