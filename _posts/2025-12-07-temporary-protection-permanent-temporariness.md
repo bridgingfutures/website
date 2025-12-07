@@ -13,6 +13,9 @@ tags:
   - homes-for-ukraine
   - ukraine-extension-scheme
   - limbo
+image:
+  path: /assets/img/social-card.png
+  alt: "Bridging Futures – analysis of permanent temporariness for Ukrainians in the UK"
 ---
 
 Bridging Futures is a UK-based, Ukrainian-led non-profit working to help build a pathway to long-term settlement for people on the UK’s Ukraine visa schemes.
