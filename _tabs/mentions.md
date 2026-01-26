@@ -71,7 +71,7 @@ layout: page
 </style>
 
 ## Parliamentary mentions tracker
-Here we collect parliamentary mentions and actions related to the UK Ukraine schemes.
+Here we collect parliamentary mentions and actions focused on long-term stability for people on the UK Ukraine schemes.
 
 {% include mentions-table.html %}
 
