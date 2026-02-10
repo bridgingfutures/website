@@ -21,7 +21,7 @@ Currently, the organisation’s core activities are:
 
 ---
 
-For media and partner use, please refer to our basic [press kit](https://drive.google.com/drive/folders/1xf9rlHoQcHPs5nwR-kY08NWhUFn4-vtc?usp=sharing)
+For media and partner use, please refer to our [press kit.](https://drive.google.com/drive/folders/1xf9rlHoQcHPs5nwR-kY08NWhUFn4-vtc?usp=sharing)
 
 ---
 
