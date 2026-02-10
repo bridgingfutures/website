@@ -21,6 +21,10 @@ Currently, the organisation’s core activities are:
 
 ---
 
+For media and partner use, please refer to our basic [press kit](https://drive.google.com/drive/folders/1xf9rlHoQcHPs5nwR-kY08NWhUFn4-vtc?usp=sharing)
+
+---
+
 [Bridging Futures Ltd](https://find-and-update.company-information.service.gov.uk/company/16410689) (CRN 16410689) is the data controller.  
 ICO registration: ZB980468.  
 Privacy Notice: [tinyurl.com/4m4xxxpm](https://tinyurl.com/4m4xxxpm)
