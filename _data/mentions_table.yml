@@ -2424,3 +2424,25 @@
   date: '2026-02-25'
   quote: We will continue to listen to Ukrainian communities and give families a greater sense of security about their future.
   link: https://hansard.parliament.uk/commons/2026-02-25/debates/C39DE10A-166C-4349-9EF2-E2173CB14339/Ukraine
+
+- name: Charlotte Cane
+  house: Commons
+  party: Liberal Democrat
+  action_type: EDM
+  date: '2026-02-27'
+  quote: ...and therefore calls on the Government to publish a clear long-term position on the UPE scheme as referenced in the Home Office statement of November 2025...
+  link: https://edm.parliament.uk/early-day-motion/65253/securing-the-ukraine-permission-extension-scheme
+
+- name: James Naish
+  house: Commons
+  party: Labour
+  action_type: Written Question
+  date: '2025-01-26'
+  quote: To ask the Secretary of State for the Home Department, what assessment she has made of the potential impact of excluding Ukraine schemes from counting towards settlement on Ukrainian nationals in the UK.
+
+- name: James Naish
+  house: Commons
+  party: Labour
+  action_type: Written Question
+  date: '2025-01-26'
+  quote: To ask the Secretary of State for the Home Department, when she plans to publish further information on long-term steps to help support people using the Ukraine Permission Extension scheme.
