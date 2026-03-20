@@ -37,4 +37,4 @@ For media enquiries, please use our basic
 ---
 
 [Bridging Futures Ltd](https://find-and-update.company-information.service.gov.uk/company/16410689) (CRN 16410689) is the data controller.  
-ICO registration: ZB980468. [Privacy Notice](https://docs.google.com/document/d/1Ju5Qvj5qODqWCExAxibSw7SRN0-JHth7Edyp8WWn6sE/)
+ICO registration: ZB980468. [Privacy Notice](https://docs.google.com/document/d/1Ju5Qvj5qODqWCExAxibSw7SRN0-JHth7Edyp8WWn6sE/).
