@@ -21,6 +21,15 @@ Currently, the organisation’s core activities are:
 
 ---
 
+**Community**
+
+- Facebook: [Bridging Futures](https://www.facebook.com/profile.php?id=61584683039699)  
+- WhatsApp group: [Join the WhatsApp group](https://chat.whatsapp.com/JavTnC8CwrC967IxrO9URn)  
+- Telegram channel: [Bridging Futures on Telegram](https://t.me/BridgingFutures)
+- Telegram chat: [Join the Telegram chat](https://t.me/+CV2yvZE4gTY0NzE6)
+
+---
+
 For media enquiries, please use our basic
 <a href="https://drive.google.com/drive/folders/1xf9rlHoQcHPs5nwR-kY08NWhUFn4-vtc?usp=sharing"
    target="_blank" rel="noopener noreferrer">press kit</a>.
