@@ -2419,7 +2419,7 @@
 
 - name: Stephen Doughty
   house: Commons
-  party: Liberal Democrat
+  party: Labour (Co-op)
   action_type: Debate
   date: '2026-02-25'
   quote: We will continue to listen to Ukrainian communities and give families a greater sense of security about their future.
@@ -2823,7 +2823,7 @@
   house: Commons
   party: Liberal Democrat
   action_type: Debate
-  date: '2026-03-17'
+  date: '2026-03-23'
   quote: ...will the Minister at least devise a pathway by which to give visa security to Ukrainians so that they can study and get mortgages and jobs?
   link: https://hansard.parliament.uk/Commons/2026-03-23/debates/280B10FC-7F17-4A44-808B-D2CA2C0AD255/UkrainianRefugeesPermanentSettlement#:~:text=will%20the%20Minister%20at%20least%20devise%20a%20pathway%20by%20which%20to%20give%20visa%20security%20to%20Ukrainians%20so%20that%20they%20can%20study%20and%20get%20mortgages%20and%20jobs%3F%20They%20are%20restricted%20in%20their%20ability%20to%20do%20those%20things.
 
@@ -2875,3 +2875,12 @@
   quote: To ask the Secretary of State for the Home Department, what assessment she has made of the potential merits of clearer pathways to settlement for Ukrainians, in addition to working visas.
   link: https://questions-statements.parliament.uk/written-questions/detail/2026-04-10/126123
 
+- name: James Naish
+  house: Commons
+  party: Labour
+  action_type: Written Question
+  date: '2026-02-26'
+  quote: To ask the Secretary of State for the Home Department, when she plans to publish further information on long-term steps to help support people using the Ukraine Permission Extension scheme.
+  link: https://questions-statements.parliament.uk/written-questions/detail/2026-02-26/116330
+
+  
