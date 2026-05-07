@@ -1559,13 +1559,6 @@
   date: '2025-07-10'
   quote: ...calls on the Government to give Ukrainian refugees the certainty they deserve by automatically extending their visas and setting out a pathway for obtaining Indefinite Leave to Remain.
   link: https://edm.parliament.uk/early-day-motion/63371/ensuring-stability-for-ukrainian-refugees-in-the-uk
-- name: Zarah Sultana
-  house: Commons
-  party: Independent
-  action_type: EDM
-  date: '2025-07-14'
-  quote: ...calls on the Government to give Ukrainian refugees the certainty they deserve by automatically extending their visas and setting out a pathway for obtaining Indefinite Leave to Remain.
-  link: https://edm.parliament.uk/early-day-motion/63371/ensuring-stability-for-ukrainian-refugees-in-the-uk
 - name: Simon Opher
   house: Commons
   party: Labour
@@ -2882,3 +2875,11 @@
   date: '2026-04-15'
   quote: ...welcomes the policy adopted by the Liberal Democrats calling for the Government to automatically extend visas for Ukrainians residing in the UK and to establish a clear pathway to indefinite leave to remain for those who wish to settle long-term...
   link: https://edm.parliament.uk/early-day-motion/64614/ukrainian-permission-extension-scheme
+
+- name: Monica Harding
+  house: Commons
+  party: Liberal Democrat
+  action_type: EDM
+  date: '2026-04-10'
+  quote: ...calls on the Government to give Ukrainian refugees the certainty they deserve by automatically extending their visas and setting out a pathway for obtaining Indefinite Leave to Remain.
+  link: https://edm.parliament.uk/early-day-motion/63371/ensuring-stability-for-ukrainian-refugees-in-the-uk
