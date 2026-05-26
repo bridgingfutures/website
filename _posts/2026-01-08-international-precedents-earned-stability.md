@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "International precedents: when ‘temporary’ protection can start counting toward permanence. Regularly updated."
+title: "International precedents: when ‘temporary’ protection can start counting toward permanence."
 date: 2026-01-08
 categories: [Research]
 tags: [Ukraine, Temporary Protection, Settlement, ILR, Precedents]
