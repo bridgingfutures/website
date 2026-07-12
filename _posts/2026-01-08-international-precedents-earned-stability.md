@@ -4,7 +4,7 @@ title: "International precedents: when ‘temporary’ protection can start coun
 date: 2026-01-08
 categories: [Research]
 tags: [Ukraine, Temporary Protection, Settlement, ILR, Precedents]
-image: assets/img/posts/2026-01-08-international-precedents.png
+image: /assets/img/posts/2026-01-08-international-precedents.png
 ---
 
 
