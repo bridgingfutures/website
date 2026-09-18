@@ -5,7 +5,7 @@ date: 2026-09-17
 categories: [Research]
 tags: [Norway, Research, Ukraine Schemes, Integration, Settlement]
 description: >
-  Norway has proposed a new route allowing Ukrainians with temporary collective protection who are working and financially self-sufficient to move to a residence permit leading to permanent residence.
+  The Norwegian government has put forward a proposal for a new residence route for Ukrainians with temporary collective protection who are already working and able to support themselves.
 toc: false
 published: true
 lang: en
