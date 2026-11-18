@@ -160,6 +160,17 @@ layout: page
   text-overflow: clip !important;
 }
 
+
+/* Mentions: remove excess space below short tables */
+#main-wrapper > .container {
+  min-height: auto !important;
+}
+
+#main-wrapper > .container > .row.flex-grow-1 {
+  flex-grow: 0 !important;
+}
+
+  
 /* Make line-height in cells match quote text */
 .tabulator .tabulator-cell{
   line-height: 1.35 !important;   /* как в .mentions-quote-text */
