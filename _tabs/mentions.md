@@ -11,7 +11,7 @@ layout: page
 <link id="tabulator-css-dark" rel="stylesheet" href="https://unpkg.com/tabulator-tables@6.2.5/dist/css/tabulator_midnight.min.css" disabled>
 
 <script src="https://unpkg.com/tabulator-tables@6.2.5/dist/js/tabulator.min.js"></script>
-<script src="{{ '/assets/js/mentions-table.js' | relative_url }}?v=16"></script>
+<script src="{{ '/assets/js/mentions-table.js' | relative_url }}?v=18"></script>
 
 <style>
   /* Hide auto title */
