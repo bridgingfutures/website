@@ -346,7 +346,8 @@
 
     function applyFilters(updateUrl = true) {
       if (!table) return;
-      table.setFilter(rowFilter);
+      // Initial filter is configured in the constructor; refresh it after state changes.
+      table.refreshFilter();
       updateFilteredIndicators();
       if (updateUrl) syncFiltersToUrl();
     }
@@ -419,20 +420,24 @@
       ],
     });
     tableElement = tableEl;
-    // Initial render respects URL and existing default action exclusions.
-    applyFilters(false);
+    // Wait until the asynchronous Tabulator initialization finishes before
+    // touching columns or asking Tabulator to redraw.
+    const builtTable = table;
+    let isTableBuilt = false;
+    builtTable.on("tableBuilt", () => {
+      if (table !== builtTable || tableElement !== tableEl) return;
+      isTableBuilt = true;
+      // Register a custom filter only after the table is fully built.
+      builtTable.setFilter(rowFilter);
+      updateFilteredIndicators();
+      applyTabulatorTheme();
+      builtTable.redraw(true);
+    });
 
-    setTimeout(() => {
-      applyTabulatorTheme();
-      table && table.redraw(true);
-    }, 0);
-    setTimeout(() => {
-      applyTabulatorTheme();
-      table && table.redraw(true);
-    }, 150);
+    // A single theme pass after tableBuilt is sufficient for the first render.
     themeObserver = new MutationObserver(() => {
       applyTabulatorTheme();
-      table && table.redraw(true);
+      if (isTableBuilt && table === builtTable) builtTable.redraw(true);
     });
     themeObserver.observe(document.documentElement, {
       attributes: true, attributeFilter: ["data-mode", "class"],
@@ -442,7 +447,7 @@
       modeBtn.addEventListener("click", () => {
         setTimeout(() => {
           applyTabulatorTheme();
-          table && table.redraw(true);
+          if (isTableBuilt && table === builtTable) builtTable.redraw(true);
         }, 50);
       });
     }
